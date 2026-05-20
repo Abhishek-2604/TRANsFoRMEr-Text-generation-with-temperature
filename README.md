@@ -1,4 +1,4 @@
-# GPT Language Model — From Scratch in PyTorch
+# Transformer based text generation
 
 A clean, well-commented implementation of a GPT-style autoregressive transformer
 for language modeling, trained on WikiText-103.
