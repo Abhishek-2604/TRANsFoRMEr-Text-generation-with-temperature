@@ -1,6 +1,6 @@
 # Transformer based text generation
 
-A implementation of a GPT autoregressive transformer
+A autoregressive transformer
 for language modeling, trained on WikiText-103.
 
 ---
