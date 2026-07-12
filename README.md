@@ -88,7 +88,7 @@ python generate.py --checkpoint checkpoints/best.pt --prompt "The history of sci
 --resume         Resume from checkpoint               (default: None)
 ```
 
-Example — faster, smaller run:
+Example - faster, smaller run:
 ```bash
 python train.py --n_layer 4 --n_embd 256 --n_head 4 --max_iters 5000 --batch_size 64
 ```
