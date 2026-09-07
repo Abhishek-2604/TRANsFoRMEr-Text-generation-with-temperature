@@ -111,7 +111,7 @@ python train.py --n_layer 4 --n_embd 256 --n_head 4 --max_iters 5000 --batch_siz
 ## File layout
 
 ```
-transformer_lm/
+TRANsFoRMEr-Text-generation-with-temperature/
 ├── model.py          # architecture (attention, MLP, blocks)
 ├── data.py           # Data loading & tokenization
 ├── train.py          # Training loop, LR schedule, checkpointing
