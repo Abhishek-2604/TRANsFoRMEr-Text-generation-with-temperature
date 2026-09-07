@@ -112,7 +112,7 @@ python train.py --n_layer 4 --n_embd 256 --n_head 4 --max_iters 5000 --batch_siz
 
 ```
 transformer_lm/
-├── model.py          # GPT architecture (attention, MLP, blocks)
+├── model.py          # architecture (attention, MLP, blocks)
 ├── data.py           # Data loading & tokenization
 ├── train.py          # Training loop, LR schedule, checkpointing
 ├── generate.py       # Text generation from checkpoint
